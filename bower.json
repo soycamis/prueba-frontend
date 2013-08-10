@@ -1,0 +1,10 @@
+{
+  "name": "prueba-frontend-trabajo",
+  "version": "0.0.1",
+  "dependencies": {
+    "modernizr": "*",
+    "jquery": "*",
+    "normalize-css": "*"
+  },
+  "devDependencies": {}
+}
